@@ -1,0 +1,4 @@
+# DeepSeek 搜索与抓取 API 配置
+api_key: "sk-your-deepseek-api-key-here"
+base_url: "https://api.deepseek.com"
+timeout: 30          # 请求超时（秒）
